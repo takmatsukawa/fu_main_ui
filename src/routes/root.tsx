@@ -1,7 +1,3 @@
 export default function Root() {
-    return (
-        <>
-            Logged in
-        </>
-    );
+	return <>Logged in</>;
 }
